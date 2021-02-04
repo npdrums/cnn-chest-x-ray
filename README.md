@@ -7,4 +7,4 @@
 5. Pay attention to your initial loss.
 6. Look at individual layers
 
-Suspecting a mistake in preprocessing or with optimizer since various architecures are givin similar results
+Suspecting a mistake in preprocessing or with optimizer since architectures depths and widths are giving similar results.
